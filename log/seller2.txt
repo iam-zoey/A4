@@ -1,0 +1,6 @@
+2024/12/12 03:18:48 Seller 2 RPC server started at localhost:8004
+2024/12/12 03:19:00 Seller 2: Request 1 processed successfully by Trader
+2024/12/12 03:19:08 Seller 2: Updating Trader to new leader at localhost:8002
+2024/12/12 03:19:10 Seller 2: Request 2 processed successfully by Trader
+2024/12/12 03:19:13 Seller 2: Updating Trader to new leader at localhost:8002
+signal: killed

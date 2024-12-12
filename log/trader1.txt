@@ -1,0 +1,12 @@
+2024/12/12 03:18:48 Trader 1 RPC server started at localhost:8001
+2024/12/12 03:18:53 Trader 1: Received request 9 from Seller 1 for 10 apples in Post 1
+2024/12/12 03:18:53 Trader 1: Heartbeat acknowledged by peer localhost:8002
+2024/12/12 03:18:53 Trader 1: Received heartbeat from Trader 2
+2024/12/12 03:18:55 Trader 1: Received request 10 from Seller 1 for 10 apples in Post 1
+2024/12/12 03:18:58 Trader 1: Received request 1 from Seller 1 for 10 apples in Post 1
+2024/12/12 03:18:58 Trader 1: Heartbeat acknowledged by peer localhost:8002
+2024/12/12 03:18:58 Trader 1: Received heartbeat from Trader 2
+2024/12/12 03:19:02 Trader 1: Received request 11 from Seller 1 for 10 apples in Post 1
+2024/12/12 03:19:03 Trader 1: Heartbeat acknowledged by peer localhost:8002
+2024/12/12 03:19:03 Trader 1: Received heartbeat from Trader 2
+signal: killed

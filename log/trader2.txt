@@ -1,0 +1,23 @@
+2024/12/12 03:18:48 Trader 2 RPC server started at localhost:8002
+2024/12/12 03:18:53 Trader 2: Received request 26 from Seller 2 for 10 apples in Post 2
+2024/12/12 03:18:53 Trader 2: Received heartbeat from Trader 1
+2024/12/12 03:18:53 Trader 2: Heartbeat acknowledged by peer localhost:8001
+2024/12/12 03:18:55 Trader 2: Received request 27 from Seller 2 for 10 apples in Post 2
+2024/12/12 03:18:58 Trader 2: Received request 1 from Seller 2 for 10 apples in Post 2
+2024/12/12 03:18:58 Trader 2: Received heartbeat from Trader 1
+2024/12/12 03:18:58 Trader 2: Heartbeat acknowledged by peer localhost:8001
+2024/12/12 03:19:02 Trader 2: Received request 28 from Seller 2 for 10 apples in Post 2
+2024/12/12 03:19:03 Trader 2: Received heartbeat from Trader 1
+2024/12/12 03:19:03 Trader 2: Heartbeat acknowledged by peer localhost:8001
+2024/12/12 03:19:08 Trader 2: Received request 2 from Seller 2 for 10 apples in Post 2
+2024/12/12 03:19:08 Trader 2: Failed to connect to peer Trader at localhost:8001. Assuming failure.
+2024/12/12 03:19:08 Trader 2: Taking over all posts as the sole leader.
+2024/12/12 03:19:08 Trader 2: Notified Seller at localhost:8003 about new leader localhost:8002
+2024/12/12 03:19:08 Trader 2: Notified Seller at localhost:8004 about new leader localhost:8002
+2024/12/12 03:19:12 Trader 2: Received request 29 from Seller 2 for 10 apples in Post 2
+2024/12/12 03:19:13 Trader 2: Received request 2 from Seller 1 for 10 apples in Post 1
+2024/12/12 03:19:13 Trader 2: Failed to connect to peer Trader at localhost:8001. Assuming failure.
+2024/12/12 03:19:13 Trader 2: Taking over all posts as the sole leader.
+2024/12/12 03:19:13 Trader 2: Notified Seller at localhost:8003 about new leader localhost:8002
+2024/12/12 03:19:13 Trader 2: Notified Seller at localhost:8004 about new leader localhost:8002
+signal: killed
